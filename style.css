@@ -3,3 +3,8 @@ body {
     background-color: #234adc;
     color: aliceblue;
 }
+header {
+    background-color: aqua;
+    border: 1px 3px 3xp 1px;
+    float: left;
+}
